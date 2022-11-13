@@ -25,5 +25,5 @@ if (allScores !== null) {
 }
 
 goBack.addEventListener("click", function () {
-    window.location.replace("./Index.html");
+    window.location.replace("./index.html");
 });
